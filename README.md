@@ -1,6 +1,7 @@
 ### Hello World!
 
-I am beginner fullstack software engineer from Wroclaw, Poland.
+I am beginner fullstack Software Engineer from Wroclaw, Poland.
+
 
 
 
